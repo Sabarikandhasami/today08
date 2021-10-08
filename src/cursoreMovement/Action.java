@@ -25,7 +25,7 @@ public class Action {
 		WebElement btnMore = chrome.findElement(By.xpath("//a[text()='View All Courses'][1]"));
 		btnMore.click();
 		
-		
+		System.out.println("hi");
 		
 		
 	}
